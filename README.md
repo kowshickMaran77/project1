@@ -25,3 +25,7 @@ Open the index.html file in your browser.
   Password matching validation.
   Show/hide password toggle.
   Form reset after submission. 
+  **Preview**
+  ## Project URL
+    Live Project: Coming Soon!
+
