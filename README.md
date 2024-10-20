@@ -27,6 +27,6 @@ Open the index.html file in your browser.
   Form reset after submission. 
   **Preview**
   ## Project URL
-    Live Project: Coming Soon!
+    Live Project: https://login-psi-woad.vercel.app/
   https://roadmap.sh/projects/accessible-form-ui
 
